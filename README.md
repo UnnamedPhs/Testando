@@ -1,8 +1,8 @@
-Criando um script em python que gera senhas
+Meu primeiro contato com git e github.
 
-Bibliotecas:
+Fiz um script em python que gera senhas com as seguintes bibliotecas:
 
-	string
-        secrets
-Script já foi criado
+	String
+	Secrets
 
+Basico, sim, porem estou em aprendizado :)
