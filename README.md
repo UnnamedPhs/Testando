@@ -4,3 +4,5 @@ Bibliotecas:
 
 	string
         secrets
+Script já foi criado
+
